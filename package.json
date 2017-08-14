@@ -1,6 +1,6 @@
 {
   "name": "hyper-quit",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Quit Hyper on macOS when last window closes",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
     "quit",
     "exit",
     "hyper",
+    "hyperterm",
     "Terminal",
     "Plugin"
   ],
