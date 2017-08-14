@@ -1,0 +1,26 @@
+{
+  "name": "hyper-quit",
+  "version": "1.0.0",
+  "description": "Quit Hyper on macOS when last window closes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cblecker/hyper-quit.git"
+  },
+  "keywords": [
+    "quit",
+    "exit",
+    "hyper",
+    "Terminal",
+    "Plugin"
+  ],
+  "author": "Christoph Blecker <admin@toph.ca>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cblecker/hyper-quit/issues"
+  },
+  "homepage": "https://github.com/cblecker/hyper-quit#readme"
+}
