@@ -1,6 +1,10 @@
 # hyper-quit
 Quit [Hyper](https://hyper.is/) on macOS when last window closes.
 
+[![npm](https://img.shields.io/npm/v/hyper-quit.svg?maxAge=2592000)](https://www.npmjs.com/package/hyper-quit)
+[![npm](https://img.shields.io/npm/dt/hyper-quit.svg?maxAge=2592000)](https://www.npmjs.com/package/hyper-quit)
+[![npm](https://img.shields.io/npm/dm/hyper-quit.svg?maxAge=2592000)](https://www.npmjs.com/package/hyper-quit)
+
 _Note:_ This has no effect on other operating systems as Hyper will already exit
 when the last window is closed.
 
