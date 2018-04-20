@@ -16,7 +16,7 @@ To install, edit `~/.hyper.js` and add `"hyper-quit"` to `plugins`:
 plugins: ["hyper-quit"],
 ```
 
-Or you can install with [hpm](https://github.com/zeit/hpm):
+Or you can install with Hyper 2's [`hyper` CLI command](https://zeit.co/blog/hyper2#simple-plugin-and-theme-installation):
 ```bash
-hpm install hyper-quit
+hyper install hyper-quit
 ```
